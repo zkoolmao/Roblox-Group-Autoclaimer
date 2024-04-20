@@ -1,8 +1,4 @@
 <div align="center">
-  <kbd>
-    <img src="https://cdn.discordapp.com/attachments/1222583668699299892/1222586591483265164/image.png?ex=6616c17d&is=66044c7d&hm=b9c8041f308e76aa55d7180ec487803def3d40a819082551786fd13ca0b5fbc1&" alt="Example" style="width: 110%; height: 110%;">
-  </a>
-  </kbd>
 
   <h2 align="center">Roblox Group Autoclaimer</h2>
   <p align="center">
@@ -26,6 +22,10 @@
 - Full source code
 - Good design, easy to understand
 - Custom shouts included
+
+# 🤡 Warning
+- This tool is free, you cannot sell it or change credits.
+- If you want to remake the code, star and fork this.
 
 # ✅ Support
 - If you want more features, go check out the [OG one](https://github.com/trailios/roblox-autoclaimer), it gets frequent updates (i simply forked this and made it kinda better)
