@@ -1,28 +1,34 @@
-# Roblox group autoclaimer
+<div align="center">
+  <kbd>
+    <img src="https://cdn.discordapp.com/attachments/1222583668699299892/1222586591483265164/image.png?ex=6616c17d&is=66044c7d&hm=b9c8041f308e76aa55d7180ec487803def3d40a819082551786fd13ca0b5fbc1&" alt="Example" style="width: 110%; height: 110%;">
+  </a>
+  </kbd>
 
-This took a long time to make and wasnt easy
+  <h2 align="center">Roblox Group Autoclaimer</h2>
+  <p align="center">
+    Fast tool to help you autoclaim groups, speeding up the process.
+    <br />
+    <br />
+    <a href="https://github.com/trailios/roblox-autoclaimer">⭐ Credits</a>
+  </p>
+</div>
 
-Make sure to add enough cookies in cookies.txt
+# ⚙️ Setup
 
-75% completed i just have to make the gateway error handling better with the resuming session stuff
+1. Fill everything in ./data/config.json
+2. Add your cookies in ./data/cookies.txt
+3. Install all requirements in cmd (pip install -r requirements.txt)
+4. Run it with python3 main.py
 
-Make sure to change the config.json to your stuff
+# ⭐ Features
 
-```json
-{
-    "version": "5.3.4",
-    "token": "MTEzNzQ4NDA0NTUwMTA5MjAxMg...",
-    "webhooks": {
-        "logs": "https://discord.com/api/webhooks/",
-        "detections": "https://discord.com/api/webhooks/",
-        "errors": "https://discord.com/api/webhooks/"
-    },
-}
-```
+- Simple configuration
+- Full source code
+- Good design, easy to understand
+- Custom shouts included
 
-This new version works by directly connecting to the discord gateway which is the fasest way
+# ✅ Support
+- If you want more features, go check out the [OG one](https://github.com/trailios/roblox-autoclaimer), it gets frequent updates (i simply forked this and made it kinda better)
 
-If you have questions join our [discord](https://discord.gg/tk-tools-1131950755532771469)
-## Authors
-
-- [@trailios](https://www.github.com/trailios)
+# 📌 Credits
+- [@trailios](https://github.com/trailios) - Main founder of the tool.

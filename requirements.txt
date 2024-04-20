@@ -1,5 +1,6 @@
 websocket-client
-ctypes
-pyfiglet
-socket
-ssl
+asyncio
+requests
+colorama
+aiohttp
+datetime

@@ -1,0 +1,9 @@
+{
+    "token": "MTIyMTQ4ODYxOTcxODQ0NzE0Ng.",
+    "webhook": "https://discord.com/api/webhooks/",
+    "shoutMessages": [
+        "Shout 1",
+        "Shout 2",
+        "Shout 3"
+    ]
+}
