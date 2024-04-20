@@ -1,9 +1,0 @@
-{
-    "version": "5.3.4",
-    "token": "MTEzNzQ4NDA0NTUwMTA5MjAxMg...",
-    "webhooks": {
-        "logs": "https://discord.com/api/webhooks/",
-        "detections": "Not done yet",
-        "errors": "Not done yet"
-    },
-}
